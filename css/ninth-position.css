@@ -1,0 +1,19 @@
+.ninth-position-container {
+    padding: 35px 500px 106px 30px;
+    column-count: 2;
+}
+
+.ninth-position-content {
+    margin-left: -32px;
+    padding-top: 22px;
+}
+
+.ninth-position-content span {
+    display: block;
+    white-space: nowrap;
+    margin-bottom: 9px;
+}
+
+.ninth-position-content span:last-of-type {
+    margin-bottom: 0;
+}

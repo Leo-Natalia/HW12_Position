@@ -1,0 +1,23 @@
+.seventh-position-container {
+    padding: 35px 500px 106px 30px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+}
+
+.seventh-position-container img {
+    margin-right: 18px;
+}
+
+.seventh-position-content {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+
+.seventh-position-content span {
+    display: block;
+    margin-bottom: 9px;
+}
+
+.seventh-position-content span:last-of-type {
+    margin-bottom: 0px;
+}

@@ -1,0 +1,25 @@
+.third-position-container {
+    padding: 35px 500px 106px 30px;
+}
+
+.third-position-container div {
+    display: inline-block;
+}
+
+.third-position-container img {
+    margin-right: 18px;
+}
+
+.third-position-content {
+    vertical-align: middle;
+    margin-left: -4px;
+}
+
+.third-position-content span {
+    display: block;
+    margin-bottom: 9px;
+}
+
+.third-position-content span:last-of-type {
+    margin-bottom: 0px;
+}

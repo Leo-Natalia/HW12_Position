@@ -1,0 +1,19 @@
+.eighth-position-container {
+    padding: 35px 500px 106px 30px;
+}
+
+.eighth-position-container img {
+    margin-right: 18px;
+}
+
+.eighth-position-content {
+    vertical-align: middle;
+}
+
+.eighth-position-content span {
+    display: block;
+}
+
+.eighth-position-content .name {
+    margin-bottom: 9px;
+}

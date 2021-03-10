@@ -1,0 +1,22 @@
+.second-position-container {
+    position: relative;
+    height: 240px;
+}
+
+.second-position-content img {
+    position: absolute;
+    left: 30px;
+    top: 35px;
+}
+
+.second-position-content .name {
+    position: absolute;
+    left: 145px;
+    top: 57px;
+}
+
+.second-position-content .career {
+    position: absolute;
+    left: 145px;
+    top: 94px;
+}

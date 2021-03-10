@@ -1,0 +1,22 @@
+.first-position-container {
+    padding: 35px 500px 106px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.first-position-container img {
+    margin-right: 18px;
+}
+
+.first-position-content {
+    display: flex;
+    flex-direction: column;
+} 
+
+.first-position-container span {
+    margin-bottom: 9px;
+}
+
+.first-position-container span:last-of-type {
+    margin-bottom: 0;
+}

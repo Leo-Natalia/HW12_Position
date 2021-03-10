@@ -1,0 +1,18 @@
+.fifth-position-container {
+    display: table;
+    padding: 35px 500px 106px 30px;
+}
+
+.fifth-position-container img {
+    margin-right: 18px;
+}
+
+.fifth-position-content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.fifth-position-content .name {
+    display: inline-table;
+    margin-bottom: 9px;
+}

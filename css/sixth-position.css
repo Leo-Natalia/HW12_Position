@@ -1,0 +1,21 @@
+.sixth-position-container {
+    padding: 35px 500px 106px 30px;
+    display: grid;
+    grid-template-columns: min-content max-content;
+}
+
+.sixth-position-container img {
+    margin-right: 18px;
+}
+
+.sixth-position-content {
+    display: grid;
+    align-content: center;
+}
+
+.sixth-position-content .name {
+    margin-bottom: 9px;
+}
+
+
+

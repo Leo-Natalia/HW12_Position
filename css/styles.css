@@ -1,0 +1,38 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import "first-position.css";
+@import "second-position.css";
+@import "third-position.css";
+@import "fourth-position.css";
+@import "fifth-position.css";
+@import "sixth-position.css";
+@import "seventh-position.css";
+@import "eighth-position.css";
+@import "ninth-position.css";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.17;
+    color: #000000;
+}
+
+img {
+    width: 98px;
+}
+
+.container {
+    width: 808px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.career {
+    font-size: 18px;  
+}
+
